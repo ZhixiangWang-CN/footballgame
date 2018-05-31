@@ -3,7 +3,7 @@
 !
 
 
-这个小程序是我学习js的一个小尝试，源代码和作者在这里(https://github.com/chenzhuo1992/tanyitan)- 在线Demo：[javascript+canvas实现弹一弹](https://greenfishflying.github.io/footballgame/).
+这个小程序是我学习js的一个小尝试，源代码和作者在这里(https://github.com/chenzhuo1992/tanyitan) 在线Demo：[javascript+canvas实现弹一弹](https://greenfishflying.github.io/footballgame/).
 
 - 依赖库：[easycanvas渲染](https://chenzhuo1992.github.io/easycanvas/).
 
